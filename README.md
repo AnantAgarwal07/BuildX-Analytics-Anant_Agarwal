@@ -26,6 +26,6 @@ Using SQL, I extracted insights to answer several core business questions, inclu
 
 ## 📸 Dashboard Snapshots
 ![Power BI Dashboard](dashboard_1.png)
-![Power BI Dashboard)(dashboard_2.png)
+![Power BI Dashboard](dashboard_2.png)
 
 ---
