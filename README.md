@@ -24,4 +24,8 @@ Using SQL, I extracted insights to answer several core business questions, inclu
 ## 💡 Executive Insight
 **Price vs. Performance:** High-volume user engagement (measured by the number of ratings) strongly correlates with restaurants sitting in the 'Good' and 'Very Good' rating tiers, whereas 'Poor' rated locations see negligible consumer reviews. Furthermore, areas showcasing premium average ratings do not always carry the highest average dining costs, spotlighting clear opportunities for high-margin, budget-friendly market entry.
 
+## 📸 Dashboard Snapshots
+![Power BI Dashboard](dashboard_1.png)
+![Power BI Dashboard)(dashboard_2.png)
+
 ---
